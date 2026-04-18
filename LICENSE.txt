@@ -1,0 +1,14 @@
+No‑Sell License
+
+Copyright (c) 2026
+
+Anyone is free to use, copy, modify, and share this project and any
+derivative works, as long as they are not sold or used for any
+commercial purpose.
+
+Selling this project, any part of it, or any derivative works is
+strictly prohibited. This includes using it in products or services
+intended to generate financial profit.
+
+This project is provided "as is", without any warranty of any kind.
+The author is not liable for any damages or issues arising from its use.
