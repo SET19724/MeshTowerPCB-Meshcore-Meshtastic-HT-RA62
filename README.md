@@ -21,8 +21,9 @@ The repository includes a folder with complete manufacturing files that can be s
 | **Kondensatory 0805 / Capacitors 0805**      | Standard SMD capacitors                 | https://s.click.aliexpress.com/e/_c32s48df |
 | **BMS F312F‑G**                              | Battery management system               | https://s.click.aliexpress.com/e/_c4cIWJS9 |
 | **MOSFET 8205A**                             | Dual MOSFET                             | https://s.click.aliexpress.com/e/_c3kEg6Cz |
-| **(Opcjonalnie) OLED 0.96" SSD1306**         | Optional display                        | https://s.click.aliexpress.com/e/_c36V0BV3 |
 | **Moduł Radiowy HT-RA62(868Mhz)** | HT-RA62 LORA RADIO MODULE(868Mhz) | DODAC LINK POTEM |
+| **(Opcjonalnie) OLED 0.96" SSD1306**         | Optional display                        | https://s.click.aliexpress.com/e/_c36V0BV3 |
+| **(Opcjonalnie) GPS**         | Optional GPS                        | DODAC LINK POTEM |
 
 
 ![](PHOTOS/1.png)
