@@ -29,3 +29,44 @@ The repository includes a folder with complete manufacturing files that can be s
 ![](PHOTOS/1.png)
 ![](PHOTOS/2.png)
 ![](PHOTOS/3.png)
+
+## 💖 Pomóż mi tworzyć dalej 💖
+
+Ten projekt powstał z **pasji i chęci pomocy innym** – może właśnie **Tobie**.  
+Jeśli **pomogłem Ci w czymś ważnym**, możesz się odwdzięczyć symbolicznie:  
+**☕ kawą, 🍺 piwkiem albo energetykiem ⚡ – wybór należy do Ciebie!**
+
+
+
+### 🧠 Twoje wsparcie:
+
+- **Pozwala rozwijać** ten i kolejne projekty 🚀  
+- **Pokazuje, że to co robię, ma sens** ❤️  
+- **Realnie wpływa** na to, co mogę dać innym.
+- **Motywuje** mnie do działania i częstych aktualizacji 🔄  
+- **Pomaga kolejnym osobom**, którym może się to przydać 🙌  
+- **Dajesz mi znak, że to działa i warto** 👏
+
+###  **Metody Wsparcia:**
+### ☕︎ **Wsparcie przez BuyMeCoffee:**
+
+[![Kup mi kawę](https://img.shields.io/badge/Kup%20mi%20kawę-%E2%98%95%EF%B8%8F-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/nekkogamma)
+
+### 📲 **Wsparcie przez Revolut:**
+
+1. **Nazwa użytkownika**: `@nekkogamma`  
+2. **Bezpośredni link** do darowizny:  
+   [Kliknij tutaj, aby wesprzeć](https://revolut.me/nekkogamma)
+
+3. **Revolut QR** (skanowanie):  
+<a href="https://revolut.me/nekkogamma" target="_blank">
+  <img src="PHOTOS/darowizna.png" alt="Revolut QR" width="200"/>
+</a>
+
+🔗 **Alternatywnie**:  
+[revolut.me/nekkogamma](https://revolut.me/nekkogamma)
+
+
+
+
+<img src="PHOTOS/memewsparcie.png" alt="funny support meme" width="400"/>  
