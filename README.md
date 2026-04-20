@@ -47,7 +47,7 @@ The repository includes a folder with complete manufacturing files that can be s
 | **BAT2** | Plug the **battery pack / power supply** into the **BAT2** connector. |
 | **JP3** | Point at the bottom of the PCB. Solder the jumper depending on your use case: <br>• **DIRECT** – **direct connection to the batteries without the BMS** <br>• **BMS** – power goes **through the protection circuit (BMS)** |
 | **CHARGEBOOST (ProMicro)** | ⚠️ **Don’t forget to solder the CHARGEBOOST jumper on the ProMicro board**, otherwise you’ll be cursed with *super-slow battery charging*! |
-```
+
 
 ## 📦 BOM – Bill of Materials
 | Element / Part                               | Opis / Description                      | Link                                       |
