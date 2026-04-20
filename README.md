@@ -67,6 +67,7 @@ The repository includes a folder with complete manufacturing files that can be s
 ![](PHOTOS/1.png)
 ![](PHOTOS/2.png)
 ![](PHOTOS/3.png)
+![](PHOTOS/schematic.png)
 
 ## 💖 Pomóż mi tworzyć dalej 💖
 
