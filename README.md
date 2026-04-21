@@ -2,7 +2,7 @@
 
 🇵🇱 **PL**
 
-To jest wstępna wersja płytki PCB przeznaczonej dla modułu radiowego **HT-RA62**.
+To jest wstępna wersja płytki PCB przeznaczonej dla modułu radiowego **HT-RA62** połączonego z płytką nrf52840.
 
 Płytka została zaprojektowana z myślą o oprogramowaniu **FakeTec** – działa na niej **Meshtastic** oraz **Meshcore**.
 
@@ -21,7 +21,7 @@ W repozytorium znajduje się folder gerber_to_order z kompletnymi plikami produk
 | **J2** | **Musisz zlutować (zrobić zworkę)** w tym miejscu, jeśli **nie** wlutujesz tam kabelków od przycisku. Jest to **miejsce odcinania zasilania od pakietu baterii do płytki PCB**. |
 | **BAT2** | W złącze **BAT2** wpinasz **pakiet baterii / zasilanie**. |
 | **JP3** | Punkt na dole płytki PCB. Zlutuj odpowiednią zworkę w zależności od użytku: <br>• **DIRECT** – masz **bezpośrednie połączenie z bateriami bez układu BMS** <br>• **BMS** – zasilanie idzie **przez układ zabezpieczający (BMS)** |
-| **CHARGEBOOST (ProMicro)** | ⚠️ **Nie zapomnij zlutować zworki CHARGEBOOST na płytce ProMicro**, bo dosięgnie cię *klątwa super-wolnego ładowania baterii*! |
+| **CHARGEBOOST (ProMicro nrf52840)** | ⚠️ **Nie zapomnij zlutować zworki CHARGEBOOST na płytce ProMicro**, bo dosięgnie cię *klątwa super-wolnego ładowania baterii*! |
 
 ---
 
@@ -46,14 +46,14 @@ The repository includes a folder with complete manufacturing files that can be s
 | **J2** | You **must solder a jumper** here if you do **not** solder wires from the push button. This is the **power cut-off point from the battery pack to the PCB**. |
 | **BAT2** | Plug the **battery pack / power supply** into the **BAT2** connector. |
 | **JP3** | Point at the bottom of the PCB. Solder the jumper depending on your use case: <br>• **DIRECT** – **direct connection to the batteries without the BMS** <br>• **BMS** – power goes **through the protection circuit (BMS)** |
-| **CHARGEBOOST (ProMicro)** | ⚠️ **Don’t forget to solder the CHARGEBOOST jumper on the ProMicro board**, otherwise you’ll be cursed with *super-slow battery charging*! |
+| **CHARGEBOOST (ProMicron rf52840)** | ⚠️ **Don’t forget to solder the CHARGEBOOST jumper on the ProMicro board**, otherwise you’ll be cursed with *super-slow battery charging*! |
 
 
 ## 📦 BOM – Bill of Materials
 | Element / Part                               | Opis / Description                      | Link                                       |
 |----------------------------------------------|-----------------------------------------|--------------------------------------------|
 | **Guzik 3x6x4.3mm / Button**                 | Tactile switch                          | https://s.click.aliexpress.com/e/_c45q3wJj |
-| **Pro Micro NRF**                            | Moduł sterujący / controller module     | https://s.click.aliexpress.com/e/_c35eE1rf |
+| **Pro Micro NRF52840**                            | Moduł sterujący / controller module     | https://s.click.aliexpress.com/e/_c35eE1rf |
 | **Rezystory 0805 / Resistors 0805**          | Standard SMD resistors                  | https://s.click.aliexpress.com/e/_c3W7grmd |
 | **Kondensatory 0805 / Capacitors 0805**      | Standard SMD capacitors                 | https://s.click.aliexpress.com/e/_c32s48df |
 | **BMS F312F‑G**                              | Battery management system               | https://s.click.aliexpress.com/e/_c4cIWJS9 |
